@@ -1,0 +1,4 @@
+2019-09-20 20:26:14,546 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\Repos\dropshot\src\Dropshot.WebServices\bin\Debug\Photon\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2019-09-20 20:26:14,585 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2019-09-20 21:19:48,950 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2019-09-20 21:19:48,966 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher

@@ -1,0 +1,9 @@
+2019-10-07 10:31:48,955 [1] INFO  Photon.StarDust.Client.Program - Starting 5 games with 3 players
+2019-10-07 10:31:49,548 [6] INFO  Photon.StarDust.Client.Program - [2928] Started game POH98(2928)1 with 3 clients
+2019-10-07 10:31:49,957 [6] INFO  Photon.StarDust.Client.Program - [2928] Started game POH98(2928)2 with 3 clients
+2019-10-07 10:31:49,976 [11] DEBUG Photon.StarDust.Client.Program - peers: 0, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2019-10-07 10:31:50,336 [6] INFO  Photon.StarDust.Client.Program - [2928] Started game POH98(2928)3 with 3 clients
+2019-10-07 10:31:50,797 [6] INFO  Photon.StarDust.Client.Program - [2928] Started game POH98(2928)4 with 3 clients
+2019-10-07 10:31:50,970 [5] DEBUG Photon.StarDust.Client.Program - peers: 0, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2019-10-07 10:31:51,192 [6] INFO  Photon.StarDust.Client.Program - [2928] Started game POH98(2928)5 with 3 clients
+2019-10-07 10:31:51,982 [33] DEBUG Photon.StarDust.Client.Program - peers: 0, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0

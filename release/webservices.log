@@ -1,0 +1,931 @@
+[INFO] 09:13:01 WebServiceManager - Initializing web services...
+[INFO] 09:13:02 WebServiceManager - Binding contracts...
+[INFO] 09:13:02 WebServiceManager - Opening services...
+[INFO] 09:13:02 WebServiceManager - Done
+[INFO] 09:23:31 WebServiceManager - Initializing web services...
+[INFO] 09:23:32 WebServiceManager - Binding contracts...
+[INFO] 09:23:32 WebServiceManager - Opening services...
+[INFO] 09:23:32 WebServiceManager - Done
+[INFO] 09:27:59 AuthenticationWebService - Member entry 76561200750067336 does not exists, creating new entry
+[INFO] 09:27:59 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4NTI3OTQyODg2Nzg=
+[ERROR] 09:28:02 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 09:28:02 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 09:28:04 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 09:28:04 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 09:28:33 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 09:28:37 AuthenticationWebService - Faking member 1 with 2
+[INFO] 09:28:37 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4NTMxNzczNTc2OTg=
+[ERROR] 09:28:38 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 09:28:38 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 09:28:39 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 09:28:39 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 09:34:26 AuthenticationWebService - Faking member 1 with 3
+[INFO] 09:34:26 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4NTY2NjUzODY4MjQ=
+[ERROR] 09:34:30 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 09:34:30 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 09:34:40 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 09:34:40 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 09:35:23 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 09:35:27 AuthenticationWebService - Faking member 1 with 4
+[INFO] 09:35:27 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4NTcyNzU1MDc3MTg=
+[ERROR] 09:35:28 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 09:35:28 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 09:35:38 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 09:35:38 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[ERROR] 09:36:03 BaseUserWebService - Unable to handle GetItemTransactions request:
+[ERROR] 09:36:03 BaseUserWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseUserWebService.UberStrok.WebServices.Contracts.IUserWebServiceContract.GetItemTransactions(Byte[] data)
+[INFO] 09:38:20 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 09:38:24 AuthenticationWebService - Faking member 1 with 5
+[INFO] 09:38:24 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4NTkwNDM1Mzc1MzQ=
+[ERROR] 09:38:26 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 09:38:26 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 09:38:37 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 09:38:37 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:04:38 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:04:46 AuthenticationWebService - Member entry 76561200745593956 does not exists, creating new entry
+[INFO] 10:04:46 AuthenticationWebService - Logging in member 76561200745593956:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4NzQ4NjY2NjMxMTM=
+[ERROR] 10:04:47 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:04:47 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:04:57 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:04:57 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:28:30 WebServiceManager - Initializing web services...
+[INFO] 10:28:30 WebServiceManager - Binding contracts...
+[INFO] 10:28:30 WebServiceManager - Opening services...
+[INFO] 10:28:30 WebServiceManager - Done
+[INFO] 10:28:57 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:29:01 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:29:02 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4ODk0MjEwMzQxMTM=
+[ERROR] 10:29:03 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:29:03 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[INFO] 10:29:06 AuthenticationWebService - Faking member 1 with 7
+[INFO] 10:29:06 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4ODk0NjA2ODYzNzA=
+[ERROR] 10:29:06 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:29:06 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:29:08 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:29:08 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[ERROR] 10:29:10 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:29:10 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:29:18 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:29:22 AuthenticationWebService - Faking member 1 with 8
+[INFO] 10:29:22 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4ODk2Mjc5MDQyNTc=
+[ERROR] 10:29:23 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:29:23 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:29:30 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:29:30 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:31:47 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:31:52 AuthenticationWebService - Faking member 1 with 9
+[INFO] 10:31:52 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4OTExMjI2NTQwMzQ=
+[ERROR] 10:31:53 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:31:53 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:32:00 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:32:00 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:33:00 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:33:04 AuthenticationWebService - Faking member 1 with 10
+[INFO] 10:33:04 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4OTE4NDMzOTMzMzU=
+[ERROR] 10:33:05 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:33:05 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:33:12 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:33:12 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:33:14 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:33:22 WebServiceManager - Initializing web services...
+[INFO] 10:33:23 WebServiceManager - Binding contracts...
+[INFO] 10:33:23 WebServiceManager - Opening services...
+[INFO] 10:33:23 WebServiceManager - Done
+[INFO] 10:33:30 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:33:34 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4OTIxNDY5MDY0MDM=
+[ERROR] 10:33:35 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:33:35 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[INFO] 10:33:41 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[ERROR] 10:33:42 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:33:42 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:33:45 AuthenticationWebService - Faking member 1 with 11
+[INFO] 10:33:45 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4OTIyNTg0Mzk4NjE=
+[ERROR] 10:33:46 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:33:46 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:33:46 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:33:46 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:33:58 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:34:02 AuthenticationWebService - Faking member 1 with 12
+[INFO] 10:34:02 AuthenticationWebService - Logging in member 76561200750067336:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4OTI0MjI2OTUwNzE=
+[ERROR] 10:34:03 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:34:03 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[INFO] 10:34:09 AuthenticationWebService - Logging in member 76561200745593956:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4OTI0OTkxMzAzMjg=
+[ERROR] 10:34:09 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:34:09 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[ERROR] 10:34:11 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:34:11 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:34:17 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:34:17 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:34:19 AuthenticationWebService - Faking member 6 with 13
+[INFO] 10:34:19 AuthenticationWebService - Logging in member 76561200745593956:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4OTI1OTIxMTIxNTc=
+[ERROR] 10:34:20 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:34:20 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:34:28 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:34:28 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:36:53 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:37:00 AuthenticationWebService - Faking member 6 with 14
+[INFO] 10:37:00 AuthenticationWebService - Logging in member 76561200745593956:aHR0cDovL3ViZXJzdHJpa2UvMi4wIyMjIyMxMzIxNDg4OTQyMDAyNzY0MTk=
+[ERROR] 10:37:00 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:37:00 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 10:37:06 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:37:06 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 01:44:31 WebServiceManager - Initializing web services...
+[INFO] 01:44:31 WebServiceManager - Binding contracts...
+[INFO] 01:44:31 WebServiceManager - Opening services...
+[INFO] 01:44:31 WebServiceManager - Done
+[INFO] 01:45:13 WebServiceManager - Initializing web services...
+[INFO] 01:45:14 WebServiceManager - Binding contracts...
+[INFO] 01:45:14 WebServiceManager - Opening services...
+[INFO] 01:45:14 WebServiceManager - Done
+[INFO] 01:47:19 WebServiceManager - Initializing web services...
+[INFO] 01:47:19 WebServiceManager - Binding contracts...
+[INFO] 01:47:19 WebServiceManager - Opening services...
+[INFO] 01:47:19 WebServiceManager - Done
+[INFO] 01:51:43 WebServiceManager - Initializing web services...
+[INFO] 01:51:43 WebServiceManager - Binding contracts...
+[INFO] 01:51:43 WebServiceManager - Opening services...
+[INFO] 01:51:43 WebServiceManager - Done
+[INFO] 01:54:34 WebServiceManager - Initializing web services...
+[INFO] 01:54:34 WebServiceManager - Binding contracts...
+[INFO] 01:54:34 WebServiceManager - Opening services...
+[INFO] 01:54:34 WebServiceManager - Done
+[INFO] 01:54:39 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 01:54:44 AuthenticationWebService - Member entry 76561199542866681 does not exists, creating new entry
+[INFO] 01:54:44 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdC8yLjAvIyMjIyMxMzI5Njc2NTI4NDcwMDk5MjY=
+[ERROR] 01:54:44 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 01:54:44 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 01:54:45 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 01:54:45 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 09:39:51 WebServiceManager - Initializing web services...
+[INFO] 09:39:53 WebServiceManager - Binding contracts...
+[INFO] 09:39:53 WebServiceManager - Opening services...
+[FATAL] 09:39:53 WebServiceManager - System.ServiceModel.AddressAlreadyInUseException: HTTP could not register URL http://+:80/ApplicationWebService/ because TCP port 80 is being used by another application. ---> System.Net.HttpListenerException: The process cannot access the file because it is being used by another process
+   at System.Net.HttpListener.AddAllPrefixes()
+   at System.Net.HttpListener.Start()
+   at System.ServiceModel.Channels.SharedHttpTransportManager.OnOpen()
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.SharedHttpTransportManager.OnOpen()
+   at System.ServiceModel.Channels.TransportManager.Open(TransportChannelListener channelListener)
+   at System.ServiceModel.Channels.TransportManagerContainer.Open(SelectTransportManagersCallback selectTransportManagerCallback)
+   at System.ServiceModel.Channels.TransportChannelListener.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelListener`1.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.ChannelDispatcher.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open()
+   at UberStrok.WebServices.WebServiceCollection.Open()
+   at UberStrok.WebServices.WebServiceManager.Start()
+[FATAL] 09:39:53 WebServiceManager - Unable to open service hosts.
+[FATAL] 09:39:53 WebServiceManager - Reason: HTTP could not register URL http://+:80/ApplicationWebService/ because TCP port 80 is being used by another application.
+[INFO] 09:42:20 WebServiceManager - Initializing web services...
+[INFO] 09:42:21 WebServiceManager - Binding contracts...
+[INFO] 09:42:21 WebServiceManager - Opening services...
+[INFO] 09:42:21 WebServiceManager - Done
+[INFO] 09:44:41 WebServiceManager - Initializing web services...
+[INFO] 09:44:42 WebServiceManager - Binding contracts...
+[INFO] 09:44:42 WebServiceManager - Opening services...
+[INFO] 09:44:42 WebServiceManager - Done
+[INFO] 09:46:22 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 09:46:26 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzNjc4Njg3ODIyNTg=
+[ERROR] 09:46:27 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 09:46:27 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 09:46:29 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 09:46:29 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 10:06:40 WebServiceManager - Initializing web services...
+[INFO] 10:06:41 WebServiceManager - Binding contracts...
+[INFO] 10:06:42 WebServiceManager - Opening services...
+[INFO] 10:06:42 WebServiceManager - Done
+[INFO] 10:06:50 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:06:54 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzODAxNDY5NDY1NjE=
+[ERROR] 10:06:55 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:06:55 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:06:58 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:06:58 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 10:11:00 WebServiceManager - Initializing web services...
+[INFO] 10:11:01 WebServiceManager - Binding contracts...
+[INFO] 10:11:01 WebServiceManager - Opening services...
+[INFO] 10:11:01 WebServiceManager - Done
+[INFO] 10:11:35 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:11:39 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzODI5OTgzOTIwMTA=
+[ERROR] 10:11:40 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:11:40 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:11:42 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:11:42 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 10:20:42 WebServiceManager - Initializing web services...
+[INFO] 10:20:42 WebServiceManager - Binding contracts...
+[INFO] 10:20:42 WebServiceManager - Opening services...
+[INFO] 10:20:44 WebServiceManager - Done
+[INFO] 10:20:55 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:20:58 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzODg1ODkzMDk3MDI=
+[ERROR] 10:20:59 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:20:59 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:21:01 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:21:01 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 10:23:32 WebServiceManager - Initializing web services...
+[INFO] 10:23:33 WebServiceManager - Binding contracts...
+[INFO] 10:23:33 WebServiceManager - Opening services...
+[INFO] 10:23:34 WebServiceManager - Done
+[INFO] 10:23:47 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:23:51 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzOTAzMTMwMTA3Mjg=
+[ERROR] 10:23:51 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:23:51 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:23:53 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:23:53 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 10:24:33 WebServiceManager - Initializing web services...
+[INFO] 10:24:34 WebServiceManager - Binding contracts...
+[INFO] 10:24:34 WebServiceManager - Opening services...
+[INFO] 10:24:34 WebServiceManager - Done
+[INFO] 10:24:43 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:24:47 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzOTA4NzY1NDU5NTc=
+[ERROR] 10:24:48 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:24:48 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:24:51 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:24:51 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 10:25:15 WebServiceManager - Initializing web services...
+[INFO] 10:25:16 WebServiceManager - Binding contracts...
+[INFO] 10:25:16 WebServiceManager - Opening services...
+[INFO] 10:25:16 WebServiceManager - Done
+[INFO] 10:25:24 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:25:28 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzOTEyODczMTc2MDg=
+[ERROR] 10:25:29 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:25:29 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:25:31 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:25:31 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 10:26:01 WebServiceManager - Initializing web services...
+[INFO] 10:26:02 WebServiceManager - Binding contracts...
+[INFO] 10:26:02 WebServiceManager - Opening services...
+[INFO] 10:26:03 WebServiceManager - Done
+[INFO] 10:26:10 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:26:14 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzOTE3NDI5NjIwNzk=
+[ERROR] 10:26:14 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:26:14 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:26:16 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:26:16 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[ERROR] 10:26:36 BaseUserWebService - Unable to handle GetItemTransactions request:
+[ERROR] 10:26:36 BaseUserWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseUserWebService.UberStrok.WebServices.Contracts.IUserWebServiceContract.GetItemTransactions(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseUserWebService.cs:line 100
+[ERROR] 10:26:40 BaseUserWebService - Unable to handle GetItemTransactions request:
+[ERROR] 10:26:40 BaseUserWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseUserWebService.UberStrok.WebServices.Contracts.IUserWebServiceContract.GetItemTransactions(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseUserWebService.cs:line 100
+[ERROR] 10:26:40 BaseUserWebService - Unable to handle GetPointsDeposits request:
+[ERROR] 10:26:40 BaseUserWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseUserWebService.UberStrok.WebServices.Contracts.IUserWebServiceContract.GetPointsDeposits(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseUserWebService.cs:line 229
+[INFO] 10:28:33 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:28:36 UserManager - Player with CMID 15 logged out.
+[INFO] 10:28:36 UserManager - Kicking player with CMID 15 cause of new login.
+[INFO] 10:28:37 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzOTMxNjkzNDg3NDA=
+[ERROR] 10:28:37 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:28:37 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:28:39 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:28:39 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 10:34:18 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:34:21 UserManager - Player with CMID 15 logged out.
+[INFO] 10:34:21 UserManager - Kicking player with CMID 15 cause of new login.
+[INFO] 10:34:21 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzOTY2MTczODU2ODY=
+[INFO] 10:35:00 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:35:03 UserManager - Player with CMID 15 logged out.
+[INFO] 10:35:03 UserManager - Kicking player with CMID 15 cause of new login.
+[INFO] 10:35:03 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjgzOTcwMzc0NzM4MDk=
+[ERROR] 10:35:04 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:35:04 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:35:06 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:35:06 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 10:40:56 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 10:41:01 AuthenticationWebService - Member entry 76561199641573465 does not exists, creating new entry
+[INFO] 10:41:01 AuthenticationWebService - Logging in member 76561199641573465:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5Njg0MDA2MTM0MTEwODY=
+[ERROR] 10:41:02 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 10:41:02 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 10:41:05 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 10:41:05 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 11:34:15 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 11:34:19 UserManager - Player with CMID 15 logged out.
+[INFO] 11:34:19 UserManager - Kicking player with CMID 15 cause of new login.
+[INFO] 11:34:19 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5Njg0MzI1OTUzMDU4Mzg=
+[ERROR] 11:34:19 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 11:34:19 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 11:34:21 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 11:34:21 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 11:34:37 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 11:34:41 UserManager - Player with CMID 16 logged out.
+[INFO] 11:34:41 UserManager - Kicking player with CMID 16 cause of new login.
+[INFO] 11:34:41 AuthenticationWebService - Logging in member 76561199641573465:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5Njg0MzI4MTQzODc3NDE=
+[ERROR] 11:34:42 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 11:34:42 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 11:34:45 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 11:34:45 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 11:57:19 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 11:57:24 UserManager - Player with CMID 16 logged out.
+[INFO] 11:57:24 UserManager - Kicking player with CMID 16 cause of new login.
+[INFO] 11:57:24 AuthenticationWebService - Logging in member 76561199641573465:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NjkzMTA0NDMwMDA5ODQ=
+[ERROR] 11:57:29 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 11:57:29 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 11:57:32 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 11:57:32 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 01:59:37 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 01:59:41 UserManager - Player with CMID 15 logged out.
+[INFO] 01:59:41 UserManager - Kicking player with CMID 15 cause of new login.
+[INFO] 01:59:41 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzI4Mzk4MTY3MjE4MzQ=
+[ERROR] 01:59:43 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 01:59:43 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 01:59:45 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 01:59:45 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[ERROR] 02:00:39 BaseUserWebService - Unable to handle GetItemTransactions request:
+[ERROR] 02:00:39 BaseUserWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseUserWebService.UberStrok.WebServices.Contracts.IUserWebServiceContract.GetItemTransactions(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseUserWebService.cs:line 100
+[INFO] 03:10:05 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 03:18:14 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 03:18:17 UserManager - Player with CMID 15 logged out.
+[INFO] 03:18:17 UserManager - Kicking player with CMID 15 cause of new login.
+[INFO] 03:18:17 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwNDY5Nzg4OTkzODE=
+[ERROR] 03:18:18 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 03:18:18 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 03:18:21 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 03:18:21 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 03:31:05 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 03:31:12 AuthenticationWebService - Member entry 76561197998448631 does not exists, creating new entry
+[INFO] 03:31:12 AuthenticationWebService - Logging in member 76561197998448631:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwNTQ3Mjc0MDc5Mzg=
+[ERROR] 03:31:14 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 03:31:14 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 03:31:19 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 03:31:19 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 03:48:26 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 03:48:34 AuthenticationWebService - Member entry 76561200421164343 does not exists, creating new entry
+[INFO] 03:48:34 AuthenticationWebService - Logging in member 76561200421164343:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwNjUxNDYyOTI2NDU=
+[ERROR] 03:48:36 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 03:48:37 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 03:48:43 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 03:48:43 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 03:55:26 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 03:55:29 UserManager - Player with CMID 15 logged out.
+[INFO] 03:55:29 UserManager - Kicking player with CMID 15 cause of new login.
+[INFO] 03:55:29 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwNjkyOTg5Njc5MTA=
+[ERROR] 03:55:30 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 03:55:30 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 03:55:32 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 03:55:32 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 03:59:39 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 03:59:43 UserManager - Player with CMID 17 logged out.
+[INFO] 03:59:43 UserManager - Kicking player with CMID 17 cause of new login.
+[INFO] 03:59:43 AuthenticationWebService - Logging in member 76561197998448631:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwNzE4MzcyMjk3MTc=
+[ERROR] 03:59:44 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 03:59:44 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 03:59:50 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 03:59:50 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 04:01:18 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 04:01:23 UserManager - Player with CMID 17 logged out.
+[INFO] 04:01:23 UserManager - Kicking player with CMID 17 cause of new login.
+[INFO] 04:01:23 AuthenticationWebService - Logging in member 76561197998448631:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwNzI4MzEzMjE1MTY=
+[ERROR] 04:01:24 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 04:01:24 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\RelationshipWebService.cs:line 45
+[ERROR] 04:01:29 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 04:01:29 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data) in E:\Repos\Uberstrok\src\UberStrok.WebServices\Core\BaseShopWebService.cs:line 170
+[INFO] 04:15:48 WebServiceManager - Initializing web services...
+[INFO] 04:15:50 WebServiceManager - Binding contracts...
+[INFO] 04:15:50 WebServiceManager - Opening services...
+[INFO] 04:15:50 WebServiceManager - Done
+[INFO] 04:17:18 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[ERROR] 04:17:22 BaseAuthenticationWebService - Unable to handle LoginSteam request:
+[ERROR] 04:17:22 BaseAuthenticationWebService - System.NullReferenceException: Object reference not set to an instance of an object.
+   at UberStrok.WebServices.Db.UserDb.LoadMember(Int32 cmid)
+   at UberStrok.WebServices.Db.UserDb.LoadMember(String steamId)
+   at UberStrok.WebServices.Core.AuthenticationWebService.OnLoginSteam(String steamId, String authToken, String machineId)
+   at UberStrok.WebServices.Core.BaseAuthenticationWebService.UberStrok.WebServices.Contracts.IAuthenticationWebServiceContract.LoginSteam(Byte[] data)
+[ERROR] 04:17:26 BaseAuthenticationWebService - Unable to handle LoginSteam request:
+[ERROR] 04:17:26 BaseAuthenticationWebService - System.NullReferenceException: Object reference not set to an instance of an object.
+   at UberStrok.WebServices.Db.UserDb.LoadMember(Int32 cmid)
+   at UberStrok.WebServices.Db.UserDb.LoadMember(String steamId)
+   at UberStrok.WebServices.Core.AuthenticationWebService.OnLoginSteam(String steamId, String authToken, String machineId)
+   at UberStrok.WebServices.Core.BaseAuthenticationWebService.UberStrok.WebServices.Contracts.IAuthenticationWebServiceContract.LoginSteam(Byte[] data)
+[ERROR] 04:17:27 BaseAuthenticationWebService - Unable to handle LoginSteam request:
+[ERROR] 04:17:27 BaseAuthenticationWebService - System.NullReferenceException: Object reference not set to an instance of an object.
+   at UberStrok.WebServices.Db.UserDb.LoadMember(Int32 cmid)
+   at UberStrok.WebServices.Db.UserDb.LoadMember(String steamId)
+   at UberStrok.WebServices.Core.AuthenticationWebService.OnLoginSteam(String steamId, String authToken, String machineId)
+   at UberStrok.WebServices.Core.BaseAuthenticationWebService.UberStrok.WebServices.Contracts.IAuthenticationWebServiceContract.LoginSteam(Byte[] data)
+[INFO] 04:19:18 WebServiceManager - Initializing web services...
+[FATAL] 04:19:18 WebServiceManager - Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'System.Collections.Generic.Dictionary`2[System.String,System.Int32]' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at UberStrok.WebServices.Utils.DeserializeJsonAt[T](String path)
+   at UberStrok.WebServices.Db.UserDb.LoadSteamIds()
+   at UberStrok.WebServices.Db.UserDb..ctor()
+   at UberStrok.WebServices.UserManager..ctor(WebServiceContext ctx)
+   at UberStrok.WebServices.WebServiceManager..ctor()
+[FATAL] 04:19:19 WebServiceManager - Unable to initialize web services.
+[FATAL] 04:19:19 WebServiceManager - Reason: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'System.Collections.Generic.Dictionary`2[System.String,System.Int32]' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+[INFO] 04:20:00 WebServiceManager - Initializing web services...
+[INFO] 04:20:01 WebServiceManager - Binding contracts...
+[INFO] 04:20:01 WebServiceManager - Opening services...
+[INFO] 04:20:01 WebServiceManager - Done
+[INFO] 04:20:10 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 04:20:14 AuthenticationWebService - Member entry 76561199542866681 does not exists, creating new entry
+[INFO] 04:20:14 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwODQxNDczOTU3MzU=
+[ERROR] 04:20:15 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 04:20:15 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 04:20:20 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 04:20:20 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 04:20:55 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 04:20:59 UserManager - Player with CMID 2 logged out.
+[INFO] 04:20:59 UserManager - Kicking player with CMID 2 cause of new login.
+[INFO] 04:21:00 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwODQ1OTg3ODI1NTc=
+[ERROR] 04:21:00 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 04:21:00 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 04:21:02 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 04:21:02 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 04:24:00 WebServiceManager - Initializing web services...
+[INFO] 04:24:01 WebServiceManager - Binding contracts...
+[INFO] 04:24:02 WebServiceManager - Opening services...
+[INFO] 04:24:02 WebServiceManager - Done
+[INFO] 04:24:23 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 04:24:27 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwODY2NzU3NTQ5MjM=
+[ERROR] 04:24:27 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 04:24:27 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 04:24:29 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 04:24:29 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 04:25:35 WebServiceManager - Initializing web services...
+[INFO] 04:25:35 WebServiceManager - Binding contracts...
+[INFO] 04:25:36 WebServiceManager - Opening services...
+[INFO] 04:25:36 WebServiceManager - Done
+[INFO] 04:25:49 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 04:25:53 AuthenticationWebService - Member entry 76561199542866681 does not exists, creating new entry
+[INFO] 04:25:53 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwODc1MzI2OTg2MTM=
+[ERROR] 04:25:53 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 04:25:53 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 04:25:55 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 04:25:55 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 04:31:36 WebServiceManager - Initializing web services...
+[INFO] 04:31:37 WebServiceManager - Binding contracts...
+[INFO] 04:31:37 WebServiceManager - Opening services...
+[INFO] 04:31:37 WebServiceManager - Done
+[INFO] 04:32:37 WebServiceManager - Initializing web services...
+[INFO] 04:32:37 WebServiceManager - Binding contracts...
+[INFO] 04:32:37 WebServiceManager - Opening services...
+[INFO] 04:32:37 WebServiceManager - Done
+[INFO] 04:32:48 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 04:32:52 AuthenticationWebService - Member entry 76561199542866681 does not exists, creating new entry
+[INFO] 04:32:53 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwOTE3MzAxODg3MDU=
+[ERROR] 04:32:53 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 04:32:53 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 04:32:55 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 04:32:55 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 04:33:29 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 04:33:33 UserManager - Player with CMID 1 logged out.
+[INFO] 04:33:33 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 04:33:33 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwOTIxMzAyMDgxNDY=
+[ERROR] 04:33:33 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 04:33:33 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 04:33:35 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 04:33:35 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 04:34:43 WebServiceManager - Initializing web services...
+[INFO] 04:34:44 WebServiceManager - Binding contracts...
+[INFO] 04:34:44 WebServiceManager - Opening services...
+[INFO] 04:34:44 WebServiceManager - Done
+[INFO] 04:34:51 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 04:34:55 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUwOTI5NTY0OTczMzk=
+[ERROR] 04:34:56 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 04:34:56 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 04:34:57 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 04:34:57 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 05:27:35 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 05:27:38 UserManager - Player with CMID 1 logged out.
+[INFO] 05:27:38 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 05:27:38 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxMjQ1ODY5NjYwNjA=
+[ERROR] 05:27:39 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 05:27:39 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 05:27:40 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 05:27:40 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:04:44 WebServiceManager - Initializing web services...
+[INFO] 06:04:44 WebServiceManager - Binding contracts...
+[INFO] 06:04:45 WebServiceManager - Opening services...
+[INFO] 06:04:45 WebServiceManager - Done
+[INFO] 06:04:53 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:04:57 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNDY5NzMxODY5NTc=
+[ERROR] 06:04:57 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:04:57 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:04:59 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:04:59 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:07:16 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:07:19 UserManager - Player with CMID 1 logged out.
+[INFO] 06:07:19 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 06:07:19 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNDgzOTgyNTQ4NzI=
+[ERROR] 06:07:20 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:07:20 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:07:22 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:07:22 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:07:35 WebServiceManager - Initializing web services...
+[INFO] 06:07:35 WebServiceManager - Binding contracts...
+[INFO] 06:07:35 WebServiceManager - Opening services...
+[INFO] 06:07:36 WebServiceManager - Done
+[INFO] 06:07:40 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:07:44 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNDg2NDQwNTU5Mjg=
+[ERROR] 06:07:45 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:07:45 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:07:47 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:07:47 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:13:50 WebServiceManager - Initializing web services...
+[INFO] 06:13:51 WebServiceManager - Binding contracts...
+[INFO] 06:13:51 WebServiceManager - Opening services...
+[INFO] 06:13:51 WebServiceManager - Done
+[INFO] 06:13:58 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:14:01 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNTI0MTgwNzkwNzE=
+[ERROR] 06:14:02 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:14:02 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:14:03 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:14:03 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:18:41 WebServiceManager - Initializing web services...
+[INFO] 06:18:42 WebServiceManager - Binding contracts...
+[INFO] 06:18:42 WebServiceManager - Opening services...
+[INFO] 06:18:42 WebServiceManager - Done
+[INFO] 06:18:49 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:18:53 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNTUzMjk4NzYyMTU=
+[ERROR] 06:18:53 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:18:53 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:18:55 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:18:55 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:19:22 WebServiceManager - Initializing web services...
+[INFO] 06:19:23 WebServiceManager - Binding contracts...
+[INFO] 06:19:23 WebServiceManager - Opening services...
+[INFO] 06:19:23 WebServiceManager - Done
+[INFO] 06:19:30 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:19:33 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNTU3Mzc5NDIzNDE=
+[ERROR] 06:19:34 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:19:34 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:19:36 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:19:36 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:23:08 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:23:11 UserManager - Player with CMID 1 logged out.
+[INFO] 06:23:11 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 06:23:11 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNTc5MTU5NTAzNzU=
+[ERROR] 06:23:12 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:23:12 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:23:13 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:23:13 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:24:10 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:24:13 UserManager - Player with CMID 1 logged out.
+[INFO] 06:24:13 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 06:24:14 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNTg1Mzk3MTk5MDU=
+[ERROR] 06:24:14 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:24:14 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:24:16 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:24:16 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:25:49 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:25:52 UserManager - Player with CMID 1 logged out.
+[INFO] 06:25:52 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 06:25:52 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNTk1MjM4NDA5NDU=
+[ERROR] 06:25:52 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:25:52 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:25:54 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:25:54 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:27:32 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:27:36 UserManager - Player with CMID 1 logged out.
+[INFO] 06:27:36 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 06:27:36 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNjA1NjE1MzYwOTY=
+[ERROR] 06:27:36 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:27:36 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:27:38 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:27:38 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:28:58 WebServiceManager - Initializing web services...
+[INFO] 06:28:59 WebServiceManager - Binding contracts...
+[INFO] 06:28:59 WebServiceManager - Opening services...
+[INFO] 06:28:59 WebServiceManager - Done
+[INFO] 06:30:07 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[ERROR] 06:30:11 BaseAuthenticationWebService - Unable to handle LoginSteam request:
+[ERROR] 06:30:11 BaseAuthenticationWebService - System.NullReferenceException: Object reference not set to an instance of an object.
+   at UberStrok.WebServices.Db.UserDb.LoadMember(Int32 cmid)
+   at UberStrok.WebServices.Db.UserDb.LoadMember(String steamId)
+   at UberStrok.WebServices.Core.AuthenticationWebService.OnLoginSteam(String steamId, String authToken, String machineId)
+   at UberStrok.WebServices.Core.BaseAuthenticationWebService.UberStrok.WebServices.Contracts.IAuthenticationWebServiceContract.LoginSteam(Byte[] data)
+[INFO] 06:30:24 WebServiceManager - Initializing web services...
+[INFO] 06:30:25 WebServiceManager - Binding contracts...
+[INFO] 06:30:25 WebServiceManager - Opening services...
+[INFO] 06:30:25 WebServiceManager - Done
+[INFO] 06:30:32 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:30:36 AuthenticationWebService - Member entry 76561199542866681 does not exists, creating new entry
+[INFO] 06:30:36 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNjIzNjI2NDk0MDA=
+[ERROR] 06:30:36 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:30:36 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:30:38 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:30:38 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:31:15 WebServiceManager - Initializing web services...
+[INFO] 06:31:15 WebServiceManager - Binding contracts...
+[INFO] 06:31:16 WebServiceManager - Opening services...
+[INFO] 06:31:16 WebServiceManager - Done
+[ERROR] 06:31:18 AuthenticationWebService - An undefined CMID was passed.
+[ERROR] 06:31:18 BaseAuthenticationWebService - Unable to handle CompleteAccount request:
+[ERROR] 06:31:18 BaseAuthenticationWebService - System.NullReferenceException: Object reference not set to an instance of an object.
+   at UberStrok.Core.Serialization.Views.AccountCompletionResultViewProxy.Serialize(Stream stream, AccountCompletionResultView instance) in E:\Repos\Uberstrok\src\UberStrok.Core.Serialization\Views\AccountCompletionResultViewProxy.cs:line 25
+   at UberStrok.WebServices.Core.BaseAuthenticationWebService.UberStrok.WebServices.Contracts.IAuthenticationWebServiceContract.CompleteAccount(Byte[] data)
+[INFO] 06:31:27 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:31:31 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNjI5MTAzNDQ3MTM=
+[ERROR] 06:31:31 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:31:31 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:31:33 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:31:33 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:31:53 WebServiceManager - Initializing web services...
+[INFO] 06:31:54 WebServiceManager - Binding contracts...
+[INFO] 06:31:54 WebServiceManager - Opening services...
+[INFO] 06:31:54 WebServiceManager - Done
+[INFO] 06:32:00 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:32:03 AuthenticationWebService - Member entry 76561199542866681 does not exists, creating new entry
+[INFO] 06:32:03 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNjMyMzk1NzMyMDI=
+[ERROR] 06:32:04 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:32:04 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:32:06 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:32:06 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:46:39 WebServiceManager - Initializing web services...
+[INFO] 06:46:39 WebServiceManager - Binding contracts...
+[INFO] 06:46:39 WebServiceManager - Opening services...
+[INFO] 06:46:39 WebServiceManager - Done
+[INFO] 06:46:46 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:46:50 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNzIxMDMzODIwODU=
+[ERROR] 06:46:50 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:46:50 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:46:52 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:46:52 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 06:54:52 WebServiceManager - Initializing web services...
+[INFO] 06:54:53 WebServiceManager - Binding contracts...
+[INFO] 06:54:53 WebServiceManager - Opening services...
+[INFO] 06:54:53 WebServiceManager - Done
+[INFO] 06:55:03 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 06:55:07 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxNzcwNjk1NzMyNzI=
+[ERROR] 06:55:07 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 06:55:07 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 06:55:09 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 06:55:09 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:01:43 WebServiceManager - Initializing web services...
+[INFO] 07:01:44 WebServiceManager - Binding contracts...
+[INFO] 07:01:44 WebServiceManager - Opening services...
+[INFO] 07:01:44 WebServiceManager - Done
+[INFO] 07:02:06 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:02:10 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxODEyOTk5NzM4MDA=
+[ERROR] 07:02:10 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:02:10 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:02:12 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:02:12 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:05:54 WebServiceManager - Initializing web services...
+[INFO] 07:05:54 WebServiceManager - Binding contracts...
+[INFO] 07:05:54 WebServiceManager - Opening services...
+[INFO] 07:05:54 WebServiceManager - Done
+[INFO] 07:06:02 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:06:06 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxODM2NjczOTU3MzU=
+[ERROR] 07:06:07 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:06:07 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:06:10 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:06:10 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:08:06 WebServiceManager - Initializing web services...
+[INFO] 07:08:06 WebServiceManager - Binding contracts...
+[INFO] 07:08:06 WebServiceManager - Opening services...
+[INFO] 07:08:06 WebServiceManager - Done
+[INFO] 07:08:12 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:08:16 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxODQ5NjQ2MTI0Nzk=
+[ERROR] 07:08:17 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:08:17 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:08:19 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:08:19 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:21:00 WebServiceManager - Initializing web services...
+[INFO] 07:21:01 WebServiceManager - Binding contracts...
+[INFO] 07:21:01 WebServiceManager - Opening services...
+[INFO] 07:21:01 WebServiceManager - Done
+[INFO] 07:21:17 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:21:21 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxOTI4MTM0MTEzODg=
+[ERROR] 07:21:21 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:21:21 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:21:23 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:21:23 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:23:30 WebServiceManager - Initializing web services...
+[INFO] 07:23:30 WebServiceManager - Binding contracts...
+[INFO] 07:23:30 WebServiceManager - Opening services...
+[INFO] 07:23:30 WebServiceManager - Done
+[INFO] 07:23:36 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:23:40 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxOTQyMDc5NDIzNTg=
+[ERROR] 07:23:41 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:23:41 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:23:43 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:23:43 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:24:38 WebServiceManager - Initializing web services...
+[INFO] 07:24:39 WebServiceManager - Binding contracts...
+[INFO] 07:24:39 WebServiceManager - Opening services...
+[INFO] 07:24:39 WebServiceManager - Done
+[INFO] 07:24:49 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:24:52 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUxOTQ5MjgxODcyNzE=
+[ERROR] 07:24:53 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:24:53 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:24:54 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:24:54 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:44:01 WebServiceManager - Initializing web services...
+[INFO] 07:44:02 WebServiceManager - Binding contracts...
+[INFO] 07:44:02 WebServiceManager - Opening services...
+[INFO] 07:44:02 WebServiceManager - Done
+[INFO] 07:44:07 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:44:11 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUyMDY1MTA5MDE1NzI=
+[ERROR] 07:44:11 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:44:11 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:44:13 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:44:13 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:45:23 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:45:27 UserManager - Player with CMID 1 logged out.
+[INFO] 07:45:27 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 07:45:27 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUyMDcyNzQ0NDYyNTc=
+[ERROR] 07:45:28 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:45:28 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:45:29 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:45:29 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:46:46 WebServiceManager - Initializing web services...
+[INFO] 07:46:47 WebServiceManager - Binding contracts...
+[INFO] 07:46:47 WebServiceManager - Opening services...
+[INFO] 07:46:47 WebServiceManager - Done
+[INFO] 07:46:54 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:46:58 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUyMDgxODI5NzE3Nzk=
+[ERROR] 07:46:58 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:46:58 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:47:00 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:47:00 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:48:11 WebServiceManager - Initializing web services...
+[INFO] 07:48:12 WebServiceManager - Binding contracts...
+[INFO] 07:48:12 WebServiceManager - Opening services...
+[INFO] 07:48:12 WebServiceManager - Done
+[INFO] 07:48:17 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:48:20 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUyMDkwMDU4NzIxMzQ=
+[ERROR] 07:48:21 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:48:21 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:48:22 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:48:22 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:52:08 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:52:13 UserManager - Player with CMID 1 logged out.
+[INFO] 07:52:13 UserManager - Kicking player with CMID 1 cause of new login.
+[INFO] 07:52:13 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUyMTEzMzY3NjEzMTE=
+[ERROR] 07:52:14 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:52:14 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:52:21 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:52:21 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
+[INFO] 07:58:01 WebServiceManager - Initializing web services...
+[INFO] 07:58:02 WebServiceManager - Binding contracts...
+[INFO] 07:58:03 WebServiceManager - Opening services...
+[INFO] 07:58:03 WebServiceManager - Done
+[INFO] 07:58:12 ApplicationWebService - Authenticating client v4.7.1 -> Steam.
+[INFO] 07:58:16 AuthenticationWebService - Logging in member 76561199542866681:aHR0cDovL2xvY2FsaG9zdDo5OTkvIyMjIyMxMzI5NzUyMTQ5NjE3MjE3MTI=
+[ERROR] 07:58:16 RelationshipWebService - Unable to handle GetContactsByGroups request:
+[ERROR] 07:58:16 RelationshipWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.RelationshipWebService.GetContactsByGroups(Byte[] data)
+[ERROR] 07:58:18 BaseShopWebService - Unable to handle GetBundles request:
+[ERROR] 07:58:18 BaseShopWebService - System.NotImplementedException: The method or operation is not implemented.
+   at UberStrok.WebServices.Core.BaseShopWebService.UberStrok.WebServices.Contracts.IShopWebServiceContract.GetBundles(Byte[] data)
